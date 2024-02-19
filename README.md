@@ -25,12 +25,12 @@ The custom storage solution is implemented against memory for testing purposes a
 - Clone the repository
 
     ```bash
-    git clone https://github.com/microsoft/botbuilder-samples.git
+    git clone https://github.com/rjayapra/ai-custom-storage-bot
     ```
 
 - Run the bot from a terminal or from Visual Studio:
 
-  A) From a terminal, navigate to `samples/csharp_dotnetcore/42.scaleout`
+  A) From a terminal, 
 
   ```bash
   # run the bot
@@ -41,7 +41,6 @@ The custom storage solution is implemented against memory for testing purposes a
 
   - Launch Visual Studio
   - File -> Open -> Project/Solution
-  - Navigate to `samples/csharp_dotnetcore/42.scaleout` folder
   - Select `ScaleoutBot.csproj` file
   - Press `F5` to run the project
 
